@@ -17,11 +17,13 @@
 <tr>
 <td>-2 -15.2 0 89.5 100 25.3 7 30 76 4</td>
 <td>maximum:100.00
+
 minimum:-15.20</td>
 </tr>  
 <tr>
 <td>0 3 52.7 998 135 -256 79 95 10 16  </td>
 <td>maximum:998.00
+
 minimum:-256.00</td>
 </tr> 
 </table>
